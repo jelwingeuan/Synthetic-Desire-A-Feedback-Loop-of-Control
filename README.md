@@ -1,1 +1,5 @@
-# Synthetic-Desire-A-Feedback-Loop-of-Control
+Synthetic Desire is an interactive audiovisual artwork that explores the emotional tension between attraction, control, and identity distortion. Inspired by the dark and seductive atmosphere of contemporary R&B music, the project uses audio analysis in TouchDesigner to transform sound into moving visual forms. Instead of creating a direct music video, the artwork treats the song as emotional data. The rhythm, volume, and frequency of the audio are converted into visual movement, distortion, colour, and feedback.
+
+The red and magenta colour palette represents desire, danger, intimacy, and emotional intensity. The blue highlights represent moments of vulnerability and cold digital separation. The repeated feedback trails suggest a loop of obsession, where feelings repeat, intensify, and become harder to escape. As the audio becomes stronger, the visual form becomes more unstable, creating a connection between sound energy and emotional chaos.
+
+The final artwork functions as a proof-of-concept for an audiovisual installation where the audience experiences music not only as sound, but as a living emotional environment.
